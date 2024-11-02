@@ -36,7 +36,7 @@ For training the AI models, follow the instructions in the respective model fold
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License - Non-Commercial (NC) Version. See the LICENSE file for details.
 ## Acknowledgements
 - [TensorFlow](https://www.tensorflow.org/) for machine learning frameworks
 - [OpenCV](https://opencv.org/) for computer vision tasks
